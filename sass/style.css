@@ -1,0 +1,26 @@
+.text, textarea, h1 {
+  font-size: 20px;
+  color: red;
+}
+
+.btn {
+  border: 3px solid yellow;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color: white;
+}
+
+.text, textarea, h1 {
+  content: "React";
+}
+
+.text, textarea, h1 {
+  content: "Python";
+}
+
+/*# sourceMappingURL=style.css.map */
